@@ -1,0 +1,58 @@
+{
+  "match_title": "Comet vs. MostWanted",
+  "matchid": "0001",
+  "num_maps": 1,
+  "wingman": false,
+  "players_per_team": 5,
+  "coaches_per_team": 0,
+  "coaches_must_ready": false,
+  "min_players_to_ready": 2,
+  "min_spectators_to_ready": 0,
+  "skip_veto": false,
+  "veto_first": "team1",
+  "side_type": "standard",
+  "spectators": {
+    "name": "Arena UP 2023",
+    "players": {
+      "76561197987511774": "Anders Blume"
+    }
+  },
+  "maplist": [
+    "de_dust2",
+    "de_nuke",
+    "de_anubis",
+    "de_inferno",
+    "de_mirage",
+    "de_vertigo",
+    "de_ancient",
+    "de_overpass",
+    "de_tuscan"
+  ],
+  "map_sides": [
+    "team1_ct",
+    "team2_ct",
+    "knife"
+  ],
+  "team1": {
+    "fromfile": "addons/sourcemod/get5/comet.json"
+  },
+  "team2": {
+    "name": "MostWanted",
+    "tag": "MW",
+    "flag": "BR",
+    "logo": "most",
+    "matchtext": "THE BEST",
+    "players": {
+      "76561197990682262": "unit1g",
+      "76561198010511021": "gla1ve",
+      "76561197979669175": "K0nfig",
+      "76561198028458803": "BlameF",
+      "76561198024248129": "farlig"
+    },
+  "cvars": {
+    "hostname": "Get5 Match #0001",
+    "mp_friendlyfire": "0",
+    "get5_stop_command_enabled": "1",
+    "sm_practicemode_can_be_started": "0"
+  }
+}
