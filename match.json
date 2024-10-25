@@ -1,48 +1,49 @@
 {
-  "matchid": "example_match",
-  "num_maps": 3,
-  "players_per_team": 5,
-  "coaches_per_team": 2,
-  "min_players_to_ready": 1,
-  "skip_veto": false,
-  "veto_first": "team1",
-  "side_type": "standard",
-  "spectators": {
-    "players": [
-      "76561197996426755"
-    ]
-  },
-  "maplist": [
-    "de_ancient",
-    "de_inferno",
-    "de_mirage",
-    "de_nuke",
-    "de_overpass",
-    "de_anubis",
-    "de_vertigo"
-  ],
+  "matchid": 27,
   "team1": {
-    "name": "EnvyUs",
-    "tag": "EnvyUs",
-    "flag": "FR",
-    "logo": "nv",
+    "name": "PIAZADA",
     "players": {
-      "STEAM_0:1:52245092": "splewis",
-      "76561198064755913": ""
+      "76561198008963369": "unit1g",
+      "76561198010511021": "gla1ve",
+      "76561197979669175": "K0nfig",
+      "76561198028458803": "BlameF",
+      "76561198024248129": "farlig"
     }
   },
   "team2": {
-    "name": "Fnatic",
-    "tag": "Fnatic",
-    "flag": "SE",
-    "logo": "fntc",
-    "players": [
-      "76561198008963369": "unit1g",
-      "STEAM_1:0:78189799",
-      "STEAM_1:0:142982"
-    ]
+    "name": "SEDEX",
+    "players": {
+      "76561198034202275": "s1mple",
+      "76561198044045107": "electronic",
+      "76561198246607476": "b1t",
+      "76561198121220486": "Perfecto",
+      "76561198040577200": "sdy"
+    }
   },
+  "num_maps": 7,
+  "maplist": [
+    "de_mirage",
+    "de_ancient",
+    "de_inferno",
+    "de_nuke",
+    "de_anubis",
+    "de_vertigo",
+    "de_dust2"
+  ],
+  "map_sides": [
+    "team1_ct",
+    "team2_ct",
+    "knife"
+  ],
+  "spectators": {
+    "players": {
+      "": "Caster"
+    }
+  },
+  "clinch_series": false,
+  "players_per_team": 5,
   "cvars": {
-    "sm_practicemode_can_be_started": "0"
+    "hostname": "MatchZy: {TEAM1} vs {TEAM2}",
+    "mp_friendlyfire": "0"
   }
 }
