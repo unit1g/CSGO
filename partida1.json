@@ -1,37 +1,42 @@
 {
-  "matchid": 1337,
+  "matchid": 27,
   "team1": {
-    "name": "Team_A",
+    "name": "A$AP",
     "players": {
-      "76561198008963369": "A$AP unit",
+      "76561197990682262": "A$AP unit",
       "76561198010511021": "A$AP ana0",
       "76561197979669175": "A$AP Fyle",
-      "76561198028458803": "A$AP Novitzki",
-      "76561198024248129": "A$AP fifera"
+      "76561198028458803": "A$AP fifera",
+      "76561198024248129": "A$AP Novitkz"
     }
   },
   "team2": {
-    "name": "Team_B",
+    "name": "GAY",
     "players": {
-      "76561198034202275": "GAY gui",
-      "76561198044045107": "GAY nardox",
-      "76561198246607476": "GAY Barão",
-      "76561198121220486": "GAY leucz",
-      "76561198040577200": "GAY Aksman"
+      "76561198034202275": "Gui",
+      "76561198044045107": "nardox",
+      "76561198246607476": "Aksman",
+      "76561198121220486": "Barão",
+      "76561198040577200": "leucz"
     }
   },
-  "num_maps": 1,
+  "num_maps": 3,
   "maplist": [
-	"de_nuke"
+    "de_mirage",
+    "de_dust2",
+    "de_inferno"
   ],
   "map_sides": [
     "team1_ct",
     "team2_ct",
     "knife"
   ],
-  "players_per_team": 5,
-  "cvars": {
-    "hostname": "PZ: Team_A vs Team_B #01",
-    "mp_friendlyfire": "0"
-  }
+  "spectators": {
+    "players": {
+      "": ""
+    }
+  },
+  "clinch_series": true,
+  "players_per_team": 5
+	}
 }
