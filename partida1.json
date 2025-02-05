@@ -1,0 +1,37 @@
+{
+  "matchid": 01,
+  "team1": {
+    "name": "Team_A",
+    "players": {
+      "76561198008963369": "A$AP unit",
+      "76561198010511021": "A$AP ana0",
+      "76561197979669175": "A$AP Fyle",
+      "76561198028458803": "A$AP Novitzki",
+      "76561198024248129": "A$AP fifera"
+    }
+  },
+  "team2": {
+    "name": "Team_B",
+    "players": {
+      "76561198034202275": "GAY gui",
+      "76561198044045107": "GAY nardox",
+      "76561198246607476": "GAY Barão",
+      "76561198121220486": "GAY leucz",
+      "76561198040577200": "GAY Aksman"
+    }
+  },
+  "num_maps": 1,
+  "maplist": [
+	"de_nuke"
+  ],
+  "map_sides": [
+    "team1_ct",
+    "team2_ct",
+    "knife"
+  ],
+  "players_per_team": 5,
+  "cvars": {
+    "hostname": "PZ: Team_A vs Team_B #01",
+    "mp_friendlyfire": "0"
+  }
+}
