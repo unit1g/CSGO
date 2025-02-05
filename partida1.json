@@ -37,6 +37,9 @@
     }
   },
   "clinch_series": true,
-  "players_per_team": 5
-	}
+  "players_per_team": 5,
+  "cvars": {
+    "hostname": "MatchZy: Astralis vs NaVi #27",
+    "mp_friendlyfire": "0"
+  }
 }
