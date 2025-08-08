@@ -1,49 +1,56 @@
 {
-  "matchid": 27,
-  "team1": {
-    "name": "PIAZADA",
-    "players": {
-      "76561198008963369": "unit1g",
-      "76561198010511021": "gla1ve",
-      "76561197979669175": "K0nfig",
-      "76561198028458803": "BlameF",
-      "76561198024248129": "farlig"
-    }
-  },
-  "team2": {
-    "name": "SEDEX",
-    "players": {
-      "76561198034202275": "s1mple",
-      "76561198044045107": "electronic",
-      "76561198246607476": "b1t",
-      "76561198121220486": "Perfecto",
-      "76561198040577200": "sdy"
-    }
-  },
-  "num_maps": 7,
-  "maplist": [
-    "de_mirage",
-    "de_ancient",
-    "de_inferno",
-    "de_nuke",
-    "de_anubis",
-    "de_vertigo",
-    "de_dust2"
-  ],
-  "map_sides": [
-    "team1_ct",
-    "team2_ct",
-    "knife"
-  ],
-  "spectators": {
-    "players": {
-      "": "Caster"
-    }
-  },
-  "clinch_series": false,
-  "players_per_team": 5,
-  "cvars": {
-    "hostname": "MatchZy: {TEAM1} vs {TEAM2}",
-    "mp_friendlyfire": "0"
-  }
+	"matchid": 1,
+	"team1": {
+		"name": "RECKLESS",
+		"players": {
+			"76561199060500915": "Fyle!",
+			"76561198026701532": "ITAGUI ❟❛❟",
+			"76561198986051330": "Barão",
+			"76561198029293264": "Leucz",
+			"76561198008963369": "unitw0w~"
+		}
+	},
+	"team2": {
+		"name": "NOSENSE",
+		"players": {
+			"76561198024690631": "ana0",
+			"76561199109991417": "Aksman",
+			"76561199777821301": "Finkz",
+			"76561199523858737": "lk",
+			"76561198997728848": "nardoX"
+		}
+	},
+	"num_maps": 9,
+	"maplist": [
+		"de_mirage",
+		"de_ancient",
+		"de_dust2",
+		"de_inferno",
+		"de_nuke",
+		"de_train",
+		"de_anubis",
+		"de_overpass",
+		"de_vertigo"
+	],
+	"map_sides": [
+		"knife",
+		"knife",
+		"knife",
+		"knife",
+		"knife",
+		"knife",
+		"knife",
+		"knife",
+		"knife"
+	],
+	"spectators": {
+		"players": {
+			"76561199478324598": "alieN"
+		}
+	},
+	"clinch_series": false,
+	"players_per_team": 5,
+	"cvars": {
+		"hostname": "RECKLESS vs. NONAME"
+	}
 }
